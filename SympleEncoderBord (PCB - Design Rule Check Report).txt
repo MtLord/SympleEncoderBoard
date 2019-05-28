@@ -1,0 +1,64 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Monday, May 27, 2019
+Project Path:       C:\design spark work space\Forå„îy\SympleEncoderBoard\SympleEncoderBord.prj
+Design Path:        C:\design spark work space\Forå„îy\SympleEncoderBoard\SympleEncoderBord.pcb
+Design Title:       
+Created:            2019/04/20 0:50:50
+Last Saved:         2019/05/27 18:52:11
+Editing Time:       13325 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.
